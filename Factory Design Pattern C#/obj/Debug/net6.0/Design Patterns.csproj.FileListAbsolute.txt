@@ -1,0 +1,15 @@
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\Design Patterns.exe
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\Design Patterns.deps.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\Design Patterns.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\ref\Design Patterns.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\bin\Debug\net6.0\Design Patterns.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\ref\Design Patterns.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Design Patterns\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache
