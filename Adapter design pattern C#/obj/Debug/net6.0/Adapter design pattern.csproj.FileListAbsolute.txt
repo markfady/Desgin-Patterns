@@ -1,0 +1,15 @@
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.csproj.AssemblyReference.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.AssemblyInfoInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.AssemblyInfo.cs
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.csproj.CoreCompileInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\Adapter design pattern.exe
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\Adapter design pattern.deps.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\Adapter design pattern.runtimeconfig.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\Adapter design pattern.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\ref\Adapter design pattern.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\bin\Debug\net6.0\Adapter design pattern.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\ref\Adapter design pattern.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Adapter design pattern\obj\Debug\net6.0\Adapter design pattern.genruntimeconfig.cache
